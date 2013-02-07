@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://honishi.github.com/sitemap.xml 
