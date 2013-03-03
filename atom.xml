@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T10:05:22+09:00</updated>
+  <updated>2013-03-03T10:06:10+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi, hiroyuki onishi]]></name>
@@ -133,7 +133,7 @@
 
 <p>サーバーの温度とか計測してるのは個人的な興味だったし、死活監視してても運用開始してからこの丸2ヶ月で落ちたことないし、普通は別に運用監視とかしなくていいと思う。</p>
 
-<h2>最後に</h2>
+<h2>まとめ</h2>
 
 <p>nasne 使うのはやめろ。</p>
 ]]></content>
