@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T11:13:35+09:00</updated>
+  <updated>2013-03-03T11:15:58+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi, hiroyuki onishi]]></name>
@@ -48,7 +48,7 @@
 
 <ul>
 <li>ルーターに穴を開けて、だいたい外からアクセスしてる。</li>
-<li>アニメ：アニメのメニューから番組名を選んで指定すれば、一発で<strong>全放送を勝手に録画してくれる</strong>。便利。</li>
+<li>アニメ：アニメのメニューにアニメだけ列挙されているので選んでクリックするだけで、以降は<strong>全放送を勝手に録画してくれる</strong>。便利。</li>
 <li>普通の番組：EPG 番組表から選ぶかキーワード入れておけば、勝手に録画してくれる。便利。</li>
 </ul>
 </li>
