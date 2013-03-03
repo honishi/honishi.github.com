@@ -7,7 +7,7 @@
 	<meta name="author" content="honishi, hiroyuki onishi">
 
 	
-	<meta name="description" content="情報弱者として後ろ指を指されながら生きていくのは辛い。そこで、foltia ANIME LOCKER を導入しました。 foltia ANIME LOCKER でできることは公式サイトの機能紹介を参照してください。アニメ自動録画が強調して書かれていますが、キーワード録画とか、 &hellip;">
+	<meta name="description" content="情報弱者として後ろ指を指されながら生きていくのは誰にとっても辛いこと。そこで、foltia ANIME LOCKER を導入しました。 foltia ANIME LOCKER でできることは公式サイトの機能紹介を参照してください。アニメ自動録画が強調して書かれていますが、キーワード録画とか、 &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -79,12 +79,12 @@
 		
 		<a href="/blog/2013/03/03/foltia-anime-locker-memo/">
 		
-			nasneを使うのは情弱だけ。真の情強はfoltia ANIME LOCKERを使う</a>
+			nasneを使うのは情弱だけ。真の情強はfoltia ANIME LOCKERを使う。</a>
 	</h2>
 	<div class="entry-content">
-		<p>情報弱者として後ろ指を指されながら生きていくのは辛い。そこで、<a href="http://foltia.com/ANILOC/">foltia ANIME LOCKER</a> を導入しました。</p>
+		<p>情報弱者として後ろ指を指されながら生きていくのは誰にとっても辛いこと。そこで、<a href="http://foltia.com/ANILOC/">foltia ANIME LOCKER</a> を導入しました。</p>
 
-<p>foltia ANIME LOCKER でできることは公式サイトの<a href="http://foltia.com/ANILOC/features/">機能紹介</a>を参照してください。アニメ自動録画が強調して書かれていますが、キーワード録画とか、通常の番組を録画するのも普通に便利です。</p>
+<p>foltia ANIME LOCKER でできることは公式サイトの<a href="http://foltia.com/ANILOC/features/">機能紹介</a>を参照してください。アニメ自動録画が強調して書かれていますが、キーワード録画とか、通常の番組を録画するのも普通に便利です。こんなによい製品があまり知られていない（気がする）のはもったいないので、以下、foltia ANIME LOCKER とその導入などに関するメモを記します。</p>
 
 <h2>foltia ANIME LOCKERのよいところ</h2>
 
@@ -93,10 +93,10 @@
 
 <ul>
 <li>ディスクのサイズなど、サーバーの構成を自分で決めることができる。</li>
-<li>同時録画数を上げたかったら PT3 (チューナー) を買い足せばよい。
+<li>同時録画数を上げたかったら <a href="http://earthsoft.jp/PT3/index.html">PT3</a> (チューナー) を買い足せばよい。
 
 <ul>
-<li>PT3 一枚で地上波 2 番組、BS/CS 2 番組の計 4 番組を同時録画できる。</li>
+<li>PT3 一枚で地上波 2 番組、BS/CS 2 番組の計 4 番組を同時録画できる。（最大4枚、計16番組まで）</li>
 </ul>
 </li>
 <li>アプリはだいたい php と perl で書かれている。
@@ -173,7 +173,7 @@
 
 <p>B-CASカードは <a href="http://www.b-cas.co.jp/">B-CASの会社</a> に電話して郵送してもらう。電話の翌々日に届いた。早い。</p>
 
-<h2>サーバーの設定など(Linux)</h2>
+<h2>行ったサーバー(Linux)の設定など</h2>
 
 <p>書こうと思ったけど、たいしたことはやっていなかった。</p>
 
@@ -181,7 +181,7 @@
 <li>運用・監視
 
 <ul>
-<li>スクリプトを書いて dynamic dns を定期的に更新するようにした。</li>
+<li>サーバーに dynamic dns を割り当てたので、スクリプトを書いて定期的に更新するようにした。（家の外からアクセスしないなら必要ない。）</li>
 <li>サーバーの温度を定期的にメール送信。（sensors コマンドを入れた。）</li>
 <li>インターネット上のサーバーからの死活監視。（wget で応答があることと期待する html かの確認）</li>
 </ul>
@@ -195,11 +195,15 @@
 </ul>
 
 
-<p>サーバーの温度とか計測してるのは個人的な興味だったし、死活監視してても運用開始してからこの丸2ヶ月で落ちたことないし、普通は別に運用監視とかしなくていいと思う。</p>
+<p>サーバーの温度とか計測してるのは個人的な興味だったし、死活監視してても運用開始してからこの丸2ヶ月で落ちたことないし、普通は別に運用監視とかしなくていいと思う。とにかく、普通の CentOS なので普通に便利。</p>
+
+<h2>その他</h2>
+
+<p>PT3 のファームウェアバージョンが古いと録画が出来ないので事前にアップデート（<a href="http://earthsoft.jp/PT3/download.html">回路更新</a>）を行う。これにはクソ OS Windows が必要なため、持っていない場合は、<a href="http://www.senritu.net/blog/2012/08/pt3ubuntulinux1204epgrec.html">適当な評価版などを使って更新を行う</a>。</p>
 
 <h2>まとめ</h2>
 
-<p>nasne 使うのはやめろ。</p>
+<p>もう nasne 使うのはやめろ。</p>
 
 		
 		
