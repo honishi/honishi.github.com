@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T11:32:08+09:00</updated>
+  <updated>2013-03-03T11:33:50+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi, hiroyuki onishi]]></name>
@@ -117,7 +117,7 @@
 
 <h2>行ったサーバー(Linux)の設定など</h2>
 
-<p>書こうと思ったけど、たいしたことはやっていなかった。</p>
+<p>書こうと思ったけど、まったくたいしたことはやっていなかった。</p>
 
 <ul>
 <li>運用・監視
