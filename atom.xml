@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T11:33:50+09:00</updated>
+  <updated>2013-03-03T14:40:52+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi, hiroyuki onishi]]></name>
@@ -23,6 +23,8 @@
 <p>foltia ANIME LOCKER でできることは公式サイトの<a href="http://foltia.com/ANILOC/features/">機能紹介</a>を参照してください。アニメ自動録画が強調して書かれていますが、キーワード録画とか、通常の番組を録画するのも普通に便利です。以下、foltia ANIME LOCKER とその導入などに関するメモを記す。</p>
 
 <h2>foltia ANIME LOCKERのよいところ</h2>
+
+<p><img src="https://dl.dropbox.com/u/444711/honishi.github.com/blog/2013-03-03-foltia-anime-locker-memo/foltia-anime-locker.png" alt="foltia ANIME LOCKER" /></p>
 
 <ul>
 <li>ベースが Linux サーバー (CentOS 6.0) なので、その気になればなんでもできる。
