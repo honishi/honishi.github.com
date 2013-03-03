@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T09:40:32+09:00</updated>
+  <updated>2013-03-03T09:45:41+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi]]></name>
@@ -142,7 +142,7 @@
     <link href="http://honishi.github.com/blog/2013/02/12/mada-nanimo-kakarete-inai/"/>
     <updated>2013-02-12T03:29:00+09:00</updated>
     <id>http://honishi.github.com/blog/2013/02/12/mada-nanimo-kakarete-inai</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>ここはメモなどを書く場所です。</p>
 ]]></content>
   </entry>
   
