@@ -4,7 +4,7 @@
   <title><![CDATA[honishi blog]]></title>
   <link href="http://honishi.github.com/atom.xml" rel="self"/>
   <link href="http://honishi.github.com/"/>
-  <updated>2013-03-03T09:53:55+09:00</updated>
+  <updated>2013-03-03T09:55:17+09:00</updated>
   <id>http://honishi.github.com/</id>
   <author>
     <name><![CDATA[honishi, hiroyuki onishi]]></name>
@@ -29,6 +29,12 @@
 
 <ul>
 <li>ディスクのサイズなど、サーバーの構成を自分で決めることができる。</li>
+<li>同時録画数を上げたかったら PT3 (チューナー) を買い足せばよい。
+
+<ul>
+<li>PT3 一枚で地上波 2 番組、BS/CS 2 番組の計 4 番組を同時録画できる。</li>
+</ul>
+</li>
 <li>アプリはだいたい php と perl で書かれている。
 
 <ul>
@@ -36,12 +42,6 @@
 <li>全体としての挙動は flotia ユーザーの crontab を見るとわかる。</li>
 </ul>
 </li>
-</ul>
-</li>
-<li>同時録画数を上げたかったら PT3 (チューナー) を買い足せばよい。
-
-<ul>
-<li>PT3 一枚で地上波 2 番組、BS/CS 2 番組の計 4 番組を同時録画できる。</li>
 </ul>
 </li>
 <li>web ベースの管理画面が使いやすい。
